@@ -25,24 +25,24 @@ export function Home() {
   // let [arraysDivididos, SetArraysDivididos] = useState([]);
   // const [womanGroup, setWomanGroup] = useState([]);
   const [womanGroup, setWomanGroup] = useState([
-    {woman: "Carina"},
-    {woman: "Talia"},
-    {woman: "Vanessa"},
-    {woman: "Rebecca"},
-    {woman: "Gih"},
-    {woman: "Lia"},
-    {woman: "Gabs"},
-    {woman: "Thabata"},
-    {woman: "Tati"},
-    {woman: "Any"},
-    {woman: "Gislaine"},
-    {woman: "Manu"},
-    {woman: "Ester"},
-    {woman: "Camponesa1"},
-    {woman: "Camponesa2"},
-    {woman: "Camponesa3"},
-    {woman: "Josi"},
-    {woman: "Ceiça"}
+    // {woman: "Carina"},
+    // {woman: "Talia"},
+    // {woman: "Vanessa"},
+    // {woman: "Rebecca"},
+    // {woman: "Gih"},
+    // {woman: "Lia"},
+    // {woman: "Gabs"},
+    // {woman: "Thabata"},
+    // {woman: "Tati"},
+    // {woman: "Any"},
+    // {woman: "Gislaine"},
+    // {woman: "Manu"},
+    // {woman: "Ester"},
+    // {woman: "Camponesa1"},
+    // {woman: "Camponesa2"},
+    // {woman: "Camponesa3"},
+    // {woman: "Josi"},
+    // {woman: "Ceiça"}
   ]);
 
   function shuffleArray() {
